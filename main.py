@@ -14,4 +14,4 @@ print(2 * 2 + 2 == 2 * (2 + 2))
 print()
 print('task4')
 # "4th program"
-print(int(float('123.456') * 10) % 1230)
+print(int(float('123.456') * 10) % 10)
